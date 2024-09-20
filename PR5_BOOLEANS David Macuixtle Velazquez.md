@@ -1,4 +1,4 @@
-PR2_BOOLEANS David Macuixtle Velazquez
+PR5_BOOLEANS David Macuixtle Velazquez
 #La siguiente practica es de Booleanos
 David Macuixtle Velazquez
 
